@@ -1,0 +1,19 @@
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.csproj.AssemblyReference.cache
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.csproj.SuggestedBindingRedirects.cache
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music_Online.Properties.Resources.resources
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.csproj.GenerateResource.cache
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.csproj.CoreCompileInputs.cache
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\bin\Debug\Music Online.exe.config
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\bin\Debug\Music Online.exe
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\bin\Debug\Music Online.pdb
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.exe
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.pdb
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music_Online.Home.resources
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music_Online.Item.resources
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\bin\Debug\Interop.WMPLib.dll
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Interop.WMPLib.dll
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music Online.csproj.ResolveComReference.cache
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music_Online.History.resources
+C:\Users\phung\OneDrive\Máy tính\Music Online\Music Online\obj\Debug\Music_Online.Favorite.resources
